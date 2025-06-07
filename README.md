@@ -1,52 +1,32 @@
-# e-commerce-website
-# 📸 E-Commerce Camera Website
+## ✨  E-Commerce Online Shop Design ✨
+E-Commerce Online Shop Design made in HTML5 &amp; SCSS with JavaScript.
 
-A modern, responsive e-commerce website for buying and browsing cameras and related accessories. Built using HTML, CSS, JavaScript, and Firebase for dynamic content and user authentication.
+https://gosiacodes.github.io/E-Commerce-Online-Shop-Design/
 
-## 🌐 Live Demo
+## :pushpin: _How does the website look?_
 
-[🔗 View Live](https://yourdeploymentlink.com)
+Example for shop with cameras and accessories.
 
-## 🛍️ Features
+For now it has index page, products page (when you click on "Cameras") and shopping cart page (when you click on shopping cart icon).
 
-- 🔐 User authentication (Sign Up / Login / Logout)
-- 🛒 Browse products by category: Cameras, Lenses, Accessories, Tripods, Lighting, Video Gear
-- 🧾 Product details page
-- 📥 File upload support for profile or custom orders
-- 📦 Add to cart & checkout simulation
-- 📊 Admin panel for service management
-- 📱 Fully responsive design for mobile & desktop
-- 📤 Firebase integration for data storage and user handling
+In the future comes updates (e.g. product page).
 
-## 🛠️ Technologies Used
+Website has responsive design.
 
-- HTML5, CSS3, JavaScript (Vanilla)
-- Bootstrap 5 (for responsive design)
-- Firebase (Authentication, Realtime Database, Hosting)
-- Chart.js (For admin analytics)
+## :pushpin: _GUI examples - web_
 
-## 📂 Folder Structure
+![Example index 1](/img/Online_Shop_1.png)
 
-camera-ecommerce/
-│
-├── index.html # Homepage
-├── login.html # Login page
-├── signup.html # Signup page
-├── shop.html # Shop view
-├── product.html # Product details
-├── cart.html # Shopping cart
-├── admin/ # Admin panel files
-│ ├── dashboard.html
-│ └── manage-products.html
-├── css/
-│ └── style.css
-├── js/
-│ └── main.js # Main functionality
-├── assets/
-│ ├── images/
-│ └── icons/
-├── firebase/
-│ └── firebase-config.js
-└── README.md
+![Example index 2](/img/Online_Shop_2.png)
 
+![Example index 3](/img/Online_Shop_3.png)
 
+![Example index 4](/img/Online_Shop_4.png)
+
+![Example index 5](/img/Online_Shop_5.png)
+
+## :pushpin: _GUI examples - mobile_
+
+<img src="/img/Online_Shop_6.png" width="300" height="auto" alt="Example index 6"/>
+
+<img src="/img/Online_Shop_7.png" width="300" height="auto" alt="Example index 7"/>
